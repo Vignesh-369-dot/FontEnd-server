@@ -1,5 +1,5 @@
 {
-  "name": "avivoai",
+  "name": "fe-project",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,5 +39,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "React JS Project",
+  "main": "index.js",
+  "author": "viki",
+  "license": "ISC"
 }
