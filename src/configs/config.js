@@ -1,1 +1,1 @@
-export const baseUrl = "https://dummyjson.com/"; // **  use from env
+export const baseUrl = 'https://dummyjson.com/users'; // **  use from env
